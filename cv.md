@@ -11,6 +11,7 @@ JavaScript or JS is the language of the Internet. Almost all of the most popular
 *C++;
 * HTML5;
 ## A piece of my code
+```
 Data_base::Data_base()
 {
 	ifstream input("Data_Base.txt");
@@ -52,7 +53,7 @@ void Data_base::updDataBase()
 	output.close();
 }
 
-
+```
 ## Experience
 ### Higher education  
 At the moment I get experience at the university. All labs were written in programming languages, that were written before that.
