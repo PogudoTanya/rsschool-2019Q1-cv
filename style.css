@@ -1,0 +1,64 @@
+
+body{
+    zoom: 90%;
+    font-family: "Helvetica", "Tahoma", sans-serif;
+}
+
+table{
+    width:"100%";
+    border-collapse: collapse;
+    padding: 0;
+}
+
+.article{
+    position: relative;
+    top: 0px;
+    left: -4px;
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: rgb(20, 41, 141);
+    
+}
+
+.line{
+    position: relative;
+    top: -41px;
+    left: 325px;
+    width: 1020px;
+    height: 1381px;
+    background-color: #32323229;
+}
+   
+.title{
+    position: relative;
+    font-size: 18pt;
+    font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+    text-align: justify;
+    color: rgb(15, 15, 15);
+}
+    
+.navigation{
+    position: relative;
+    top: 22px;
+    left: 0px;
+    width: 1021px;
+    height: 63px;
+    background-color: #b87575;
+}
+
+.menu{
+    position: relative;
+    top: 25px;
+    left: 119px;
+    display: -webkit-box;
+    font-family: Helvetica,Arial;
+    
+}
+
+.menu li{
+    margin: 0px 14px;
+    font-size: 17px;
+}
+ .top{
+    vertical-align: center;
+ }
